@@ -22,3 +22,7 @@ A spacemacs configuration for a fully featured C/CPP IDE
 1. The autocompletions are from OpenCV4
 2. Note that when a=4 is written there is a sign in the status bar below right after C++//1 which shows the number of errors.
 3. If you hover at a=4 the error message is shown right below the status bar.
+
+![LibTorch](https://github.com/another-dark-knight/Emacs-C-CPP-IDE/blob/master/gifs/torch-eg.gif)
+1. Error Checking has been turned off here
+2. Just an example of writing and compiling ( HELM XD)
