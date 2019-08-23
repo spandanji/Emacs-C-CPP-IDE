@@ -11,7 +11,7 @@ A spacemacs configuration for a fully featured C/CPP IDE
 6. Install emacs or emacs-noX
 
 ## To-Do
-a. Make an automation script to set it all up. 
-b. Release a lightweight version keeping packages used to a bare minimum.(Stripping stuff off Spacemacs that we won't need)
-c. Add detailed usage to setup projects and using CMake to enhance auto completions and also use make an automation script for this.
-d. Add a graphical illustration here
+1. Make an automation script to set it all up. 
+2. Release a lightweight version keeping packages used to a bare minimum.(Stripping stuff off Spacemacs that we won't need)
+3. Add detailed usage to setup projects and using CMake to enhance auto completions and also use make an automation script for this.
+4. Add a graphical illustration here
