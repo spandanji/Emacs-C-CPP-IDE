@@ -53,3 +53,7 @@ cd ..
 clang++ generate.cpp -std=c++11 -I. -o generate
 ./generate build/compile_commands.json > .clang_complete
 ```
+
+### Configuration
+
+For configuration of the flags, look into the source code of **generate.cpp** which is self explanatory. Make your changes to suit your needs, compile it and use -> profit :)
